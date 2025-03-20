@@ -99,7 +99,7 @@ algosdk.indexerModels.Transaction.constructor
 
 #### Defined in
 
-[src/types/subscription.ts:178](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L178)
+[src/types/subscription.ts:178](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L178)
 
 ## Properties
 
@@ -129,7 +129,7 @@ Any ARC-28 events emitted from an app call.
 
 #### Defined in
 
-[src/types/subscription.ts:172](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L172)
+[src/types/subscription.ts:172](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L172)
 
 ___
 
@@ -215,7 +215,7 @@ The balance changes in the transaction.
 
 #### Defined in
 
-[src/types/subscription.ts:176](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L176)
+[src/types/subscription.ts:176](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L176)
 
 ___
 
@@ -324,7 +324,7 @@ The names of any filters that matched the given transaction to result in it bein
 
 #### Defined in
 
-[src/types/subscription.ts:174](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L174)
+[src/types/subscription.ts:174](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L174)
 
 ___
 
@@ -439,7 +439,7 @@ algosdk.indexerModels.Transaction.id
 
 #### Defined in
 
-[src/types/subscription.ts:164](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L164)
+[src/types/subscription.ts:164](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L164)
 
 ___
 
@@ -455,7 +455,7 @@ algosdk.indexerModels.Transaction.innerTxns
 
 #### Defined in
 
-[src/types/subscription.ts:170](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L170)
+[src/types/subscription.ts:170](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L170)
 
 ___
 
@@ -586,7 +586,7 @@ The intra-round offset of the parent of this transaction (if it's an inner trans
 
 #### Defined in
 
-[src/types/subscription.ts:166](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L166)
+[src/types/subscription.ts:166](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L166)
 
 ___
 
@@ -598,7 +598,7 @@ The transaction ID of the parent of this transaction (if it's an inner transacti
 
 #### Defined in
 
-[src/types/subscription.ts:168](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L168)
+[src/types/subscription.ts:168](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L168)
 
 ___
 

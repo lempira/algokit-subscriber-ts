@@ -28,7 +28,7 @@ of the subscription poll.
 
 #### Defined in
 
-[src/types/subscription.ts:29](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L29)
+[src/types/subscription.ts:29](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L29)
 
 ___
 
@@ -40,7 +40,7 @@ The current detected tip of the configured Algorand blockchain.
 
 #### Defined in
 
-[src/types/subscription.ts:11](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L11)
+[src/types/subscription.ts:11](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L11)
 
 ___
 
@@ -56,7 +56,7 @@ subscribed transactions to keep it reliable.
 
 #### Defined in
 
-[src/types/subscription.ts:19](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L19)
+[src/types/subscription.ts:19](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L19)
 
 ___
 
@@ -68,7 +68,7 @@ The watermark value that was retrieved at the start of the subscription poll.
 
 #### Defined in
 
-[src/types/subscription.ts:13](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L13)
+[src/types/subscription.ts:13](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L13)
 
 ___
 
@@ -83,7 +83,7 @@ to represent the data with some additional fields.
 
 #### Defined in
 
-[src/types/subscription.ts:25](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L25)
+[src/types/subscription.ts:25](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L25)
 
 ___
 
@@ -95,4 +95,4 @@ The round range that was synced from/to
 
 #### Defined in
 
-[src/types/subscription.ts:9](https://github.com/algorandfoundation/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L9)
+[src/types/subscription.ts:9](https://github.com/lempira/algokit-subscriber-ts/blob/main/src/types/subscription.ts#L9)
